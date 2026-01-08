@@ -1,0 +1,27 @@
+baseURL = "https://<YOUR-GITHUB-USERNAME>.github.io/"
+# [en, zh-CN, fr, pl, ...] determines default content language
+languageCode = "en"
+title = "My New Blog"
+
+theme = "LoveIt"
+
+[params]
+  # Change this to your preferred color scheme (auto, light, dark)
+  defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
