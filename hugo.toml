@@ -4,17 +4,18 @@ title = "Tumello Phage"       # The title in the browser tab
 theme = "LoveIt"            # The theme name (must match your folder name in 'themes')
 
 [params]
-  # default theme mode ("light", "dark", "auto")
-  defaultTheme = "dark"
+  # default theme mode ("dark", "light", "auto")
+  defaultTheme = "light"
 
   # Website Header Config
   [params.header]
     desktopMode = "fixed"
     mobileMode = "auto"
+
     [params.header.title]
-      name = "prxncessZA"   # <--- CHANGED TO YOUR NAME
-      pre = ""              # You can add an icon code here if you want
-      typeit = true         # <--- KEEPS THE TYPING ANIMATION ON
+      name = "prxncessZA"   
+      pre = ""              
+      typeit = true         
 
   # Home Page Config (The big profile section)
   [params.home]
@@ -22,52 +23,53 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     [params.home.profile]
       enable = true
       gravatarEmail = ""
-      avatarURL = "/images/avatar.jpeg"  # Matches the file you put in static/images/
-      title = "Tumello Phage"                        # Optional big title under image
-      subtitle = "I am a blogger | coder | tech enthusiast" # The typing text under your picture
-      typeit = true                     # Turns on the typing effect
-      social = true                     # Turns on social icons (configured below)
+      avatarURL = "/images/avatar.jpeg"  
+      title = "Tumello Phage"                        
+      subtitle = "I am a blogger | coder | tech enthusiast" 
+      typeit = true                     
+      social = true                     
 
   # Social Media Links (Remove the ones you don't want)
   [params.social]
-    GitHub = "tumellop"      # Your GitHub username
-    Twitter = "yourhandle"   # Your Twitter handle
+    GitHub = "tumellop"      
+    Linkedin = "tumellop"   
     Instagram = "yourhandle"
     Email = "tumellop@gmail.com"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "About Me"
+    url = "/about/"
     title = ""
     weight = 1
 
   [[menu.main]]
-    identifier = "tags"
+    identifier = "projects"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Projects"
+    url = "/projects/"
     title = ""
     weight = 2
 
   [[menu.main]]
-    identifier = "categories"
+    identifier = "posts"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "CTF Writeups"
+    url = "/posts/"
     title = ""
     weight = 3
 
-  [[menu.main]]
-    identifier = "about"
+[[menu.main]]
+    identifier = "cv"        
     pre = ""
     post = ""
-    name = "About"
-    url = "/about/"
+    name = "CV"              
+    url = "/cv/"             
     title = ""
     weight = 4
+ 
