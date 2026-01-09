@@ -1,27 +1,73 @@
-baseURL = "https://<YOUR-GITHUB-USERNAME>.github.io/"
-# [en, zh-CN, fr, pl, ...] determines default content language
+baseURL = "https://tumellop.github.io/"  # Your website URL
 languageCode = "en"
-title = "My New Blog"
-
-theme = "LoveIt"
+title = "My New Blog"       # The title in the browser tab
+theme = "LoveIt"            # The theme name (must match your folder name in 'themes')
 
 [params]
-  # Change this to your preferred color scheme (auto, light, dark)
+  # default theme mode ("light", "dark", "auto")
   defaultTheme = "auto"
+
+  # Website Header Config
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      name = "My Blog"      # The bold name at the top left
+      pre = ""             # You can add an icon here like <i class='far fa-kiss-wink-heart fa-fw'></i>
+      type = "typeit"      # This makes the title type itself out!
+
+  # Home Page Config (The big profile section)
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      gravatarEmail = ""
+      avatarURL = "/images/avatar.jpeg"  # Matches the file you put in static/images/
+      title = ""                        # Optional big title under image
+      subtitle = "I am a blogger | coder | tech enthusiast" # The typing text under your picture
+      typeit = true                     # Turns on the typing effect
+      social = true                     # Turns on social icons (configured below)
+
+  # Social Media Links (Remove the ones you don't want)
+  [params.social]
+    GitHub = "tumellop"      # Your GitHub username
+    Twitter = "yourhandle"   # Your Twitter handle
+    Instagram = "yourhandle"
+    Email = "tumellop@gmail.com"
 
 [menu]
   [[menu.main]]
     identifier = "posts"
+    pre = ""
+    post = ""
     name = "Posts"
     url = "/posts/"
+    title = ""
     weight = 1
+
   [[menu.main]]
     identifier = "tags"
+    pre = ""
+    post = ""
     name = "Tags"
     url = "/tags/"
+    title = ""
     weight = 2
+
   [[menu.main]]
     identifier = "categories"
+    pre = ""
+    post = ""
     name = "Categories"
     url = "/categories/"
+    title = ""
     weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 4
