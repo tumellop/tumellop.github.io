@@ -30,10 +30,3 @@ I want to pursue a long-term career in cyber defense, with the ultimate goal of 
 ### Noticeable Achievements
 * **2nd Place** – PAICTA Cybersecurity 4D 2025
 * **3rd Place** – SANReN Cyber Security Challenge 2025 (Team N0T0R10S)
-
-### For any enquiries 
-Feel free to reach out to me via any of the following platforms:
-
-* **📧 Email:**[tumellop@gmail.com](mailto:tumellop@gmail.com)
-* **👾 Discord** Username: **prxncessZA**
-* **💼 LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tumellop)

@@ -4,4 +4,10 @@ draft = false
 title = 'Projects'
 +++
 
-<h1 style="text-align: center; font-weight: bold;">Projects with Demos coming soon...</h1>
+<div style="display: flex; justify-content: center; align-items: center; height: 60vh;">
+    <h1 style="font-weight: bold;">
+        {{< typeit >}}
+         Projects with Demos coming soon...
+        {{< /typeit >}}
+    </h1>
+</div>    

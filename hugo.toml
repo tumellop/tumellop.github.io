@@ -35,6 +35,8 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     Linkedin = "tumellop"   
     Instagram = "yourhandle"
     Email = "tumellop@gmail.com"
+  
+  
 
 [markup]
   [markup.goldmark]
