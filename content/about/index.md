@@ -11,10 +11,11 @@ I am **Tumello** (aka **prxncessZA** 👑), How would I describe myself? Curious
 
 I started playing CTFs regularly in **2024**. I graduated from University with my **Diploma** on **March 26, 2025**, and I will be graduating again with my **Advanced Diploma in Computer Networking** in **March 2026**.
 I do my best work where there's room to think outside the box while staying grounded in structure and strategy.
+
 I want to pursue a long-term career in cyber defense, with the ultimate goal of becoming a **CISO** (Chief Information Security Officer). Currently, I am actively looking for **internships** and **study-abroad opportunities** to further my experience.
 
 ### TryHackMe Profile
-<img src="https://tryhackme-badges.s3.amazonaws.com/prxncessZA.png" alt="THM Image Badge" />
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/prxncessZA.png)
 
 ### Related Interests
 * **Blue Teaming** (Defensive Strategy)
@@ -34,6 +35,5 @@ I want to pursue a long-term career in cyber defense, with the ultimate goal of 
 Feel free to reach out to me via any of the following platforms:
 
 * **📧 Email:**[tumellop@gmail.com](mailto:tumellop@gmail.com)
-* **📱 Phone:**[+27 71 141 3704](tel:+27711413704)
 * **👾 Discord** Username: **prxncessZA**
 * **💼 LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tumellop)
