@@ -64,7 +64,7 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     title = ""
     weight = 3
 
-[[menu.main]]
+  [[menu.main]]
     identifier = "cv"        
     pre = ""
     post = ""
@@ -73,3 +73,16 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     title = ""
     weight = 4
  
+  [[menu.main]]
+    identifier = "contact"
+    pre = ""
+    post = ""
+    name = "Contact"
+    url = "/contact/"
+    title = ""
+    weight = 5 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    

@@ -4,4 +4,4 @@ draft = false
 title = 'Projects'
 +++
 
-Projects with Demos coming soon...
+<h1 style="text-align: center; font-weight: bold;">Projects with Demos coming soon...</h1>
