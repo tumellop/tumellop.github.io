@@ -7,4 +7,6 @@ title = 'CV'
 # Tumello Phage
 **Cybersecurity Enthusiast & Network  Engineering Graduate**
 
-### [Download Full CV](/files/TUMELLO_PHAGE_CV.pdf)
+<a href="/files/TUMELLO_PHAGE_CV.pdf" download="Tumello_Phage_CV.pdf">
+    <h3>Download Full CV(PDF)</h3>
+</a>   

@@ -36,6 +36,11 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     Instagram = "yourhandle"
     Email = "tumellop@gmail.com"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
+
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -82,7 +87,3 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     title = ""
     weight = 5 
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true    
