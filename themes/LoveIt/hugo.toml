@@ -19,7 +19,7 @@
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "My cool site"
+  title = "Tumello Phage's Portfolio"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "This is my cool site"
@@ -114,7 +114,7 @@
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "Tumello Phage"
+    title = "Tumello Phage's Portfolio"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
