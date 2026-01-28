@@ -15,7 +15,7 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     [params.header.title]
       name = "prxncessZA"   
       pre = ""              
-      typeit = true         
+      typeit = true 
 
   # Home Page Config (The big profile section)
   [params.home]
@@ -36,7 +36,12 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     Instagram = "yourhandle"
     Email = "tumellop@gmail.com"
   
-  
+  [params.app]
+    noFavicon = false
+    svgFavicon = ""
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    titleColor = "#da532c"
 
 [markup]
   [markup.goldmark]
