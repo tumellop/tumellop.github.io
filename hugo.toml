@@ -44,6 +44,19 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
     iconColor = "#5bbad5"
     titleColor = "#da532c"
 
+  [params.page.share]
+    enable = true
+    Twitter = true
+    Facebook = true  
+    Reddit = true
+    HackerNews = true
+    Line = false
+    Diaspora = false
+    Weibo = false
+    Telegram = false
+    Threads = false
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
