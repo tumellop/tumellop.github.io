@@ -5,7 +5,9 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
 
 [params]
   # default theme mode ("dark", "light", "auto")
-  defaultTheme = "light"
+  defaultTheme = "dark"
+
+  ShowWordCount = false
 
   # Website Header Config
   [params.header]
@@ -33,7 +35,6 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
   [params.social]
     GitHub = "tumellop"      
     Linkedin = "tumellop"   
-    Instagram = "yourhandle"
     Email = "tumellop@gmail.com"
   
   [params.app]

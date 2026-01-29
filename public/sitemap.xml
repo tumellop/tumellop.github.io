@@ -1,21 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2026-01-08T14:49:10+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-08T14:49:10+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-08T14:49:10+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://tumellop.github.io/tags/ctf/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/tags/cybersecurity/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/posts/nicctf26-writeup/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/tags/nicctf/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/posts/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/tags/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/</loc><lastmod>2026-01-28T19:47:57&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/contact/</loc><lastmod>2026-01-09T12:04:48&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/cv/</loc><lastmod>2026-01-09T11:36:00&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/projects/</loc><lastmod>2026-01-09T11:35:37&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/about/</loc><lastmod>2026-01-08T15:28:13&#43;02:00</lastmod></url><url>
+            <loc>https://tumellop.github.io/categories/</loc></url></urlset>

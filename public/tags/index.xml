@@ -1,11 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on My New Blog</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Blog</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Tumello Phage</title>
+        <link>https://tumellop.github.io/tags/</link>
+        <description>Tags - Tag - Tumello Phage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 28 Jan 2026 19:47:57 &#43;0200</lastBuildDate><atom:link href="https://tumellop.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>CTF</title>
+    <link>https://tumellop.github.io/tags/ctf/</link>
+    <pubDate>Wed, 28 Jan 2026 19:47:57 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>https://tumellop.github.io/tags/ctf/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Cybersecurity</title>
+    <link>https://tumellop.github.io/tags/cybersecurity/</link>
+    <pubDate>Wed, 28 Jan 2026 19:47:57 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>https://tumellop.github.io/tags/cybersecurity/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>NICCTF</title>
+    <link>https://tumellop.github.io/tags/nicctf/</link>
+    <pubDate>Wed, 28 Jan 2026 19:47:57 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>https://tumellop.github.io/tags/nicctf/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

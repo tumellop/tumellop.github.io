@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>All Posts - My New Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>My New Blog</description>
-    <generator>Hugo 0.154.3 &amp; FixIt v0.4.2-20260108093145-c257b9b1</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 14:49:10 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Thu, 08 Jan 2026 14:49:10 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;p&gt;My name is Tumello Phage&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Tumello Phage</title>
+        <link>https://tumellop.github.io/posts/</link>
+        <description>All Posts | Tumello Phage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 28 Jan 2026 19:47:57 &#43;0200</lastBuildDate><atom:link href="https://tumellop.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>NIC CTF26 Writeup</title>
+    <link>https://tumellop.github.io/posts/nicctf26-writeup/</link>
+    <pubDate>Wed, 28 Jan 2026 19:47:57 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>https://tumellop.github.io/posts/nicctf26-writeup/</guid>
+    <description><![CDATA[At the end of January 2026, <strong>Namibiam International Cybersecurity Conference (NICC)</strong> released a Jeopardy-style ctf <strong>(NIC CTF26)</strong>.However I ended up coming 30th&hellip;]]></description>
+</item>
+</channel>
 </rss>
