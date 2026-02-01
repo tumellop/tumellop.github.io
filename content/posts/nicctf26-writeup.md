@@ -9,7 +9,7 @@ summary = "At the end of January 2026, **Namibiam International Cybersecurity Co
 
 At the end of January 2026, **Namibiam International Cybersecurity Conference (NICC)** released a Jeopardy-style ctf **(NIC CTF26)**.However I ended up coming 30th, missing out on a Top 10 spot. Here are some of my writeups
 
-# 📂 MISCELLANEOUS
+## 📂 MISCELLANEOUS
 
 ## 1. Welcome (10 Points)
 **Author:** John_x9  
@@ -32,7 +32,7 @@ After analyzing the history of the channel, I ended up investigating the bot's p
 
 ---
 
-# 🕵️ OSINT
+## 🕵️ OSINT
 
 ## 1. Long Distance Friend (100 Points)
 **Author:** Sen0i  
