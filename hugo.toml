@@ -27,7 +27,7 @@ theme = "LoveIt"            # The theme name (must match your folder name in 'th
       gravatarEmail = ""
       avatarURL = "/images/avatar.jpeg"  
       title = "Tumello Phage"                        
-      subtitle = "I am a blogger | coder | tech enthusiast" 
+      subtitle = "I am a blogger | coder | cybersecurity enthusiast." 
       typeit = true                     
       social = true                     
 
