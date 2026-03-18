@@ -30,3 +30,6 @@ I want to pursue a long-term career in cyber defense, with the ultimate goal of 
 ### Noticeable Achievements
 * **2nd Place** – PAICTA Cybersecurity 4D 2025
 * **3rd Place** – SANReN Cyber Security Challenge 2025 (Team N0T0R10S)
+![Team N0T0R10S](/images/team.jpeg)
+![On Stage Photo](/images/sanren1.jpeg)
+![Another Team photo](/images/sanren2.jpeg)
