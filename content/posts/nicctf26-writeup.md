@@ -7,7 +7,7 @@ tags = ["CTF", "Cybersecurity", "NICCTF"]
 summary = "At the end of January 2026, **Namibiam International Cybersecurity Conference (NICC)** released a Jeopardy-style ctf **(NIC CTF26)**.However I ended up coming 30th..."
 +++
 
-At the end of January 2026, **Namibiam International Cybersecurity Conference (NICC)** released a Jeopardy-style ctf **(NIC CTF26)**.However I ended up coming 30th, missing out on a Top 10 spot. Here are some of my writeups
+At the end of January 2026, **Namibiam International Cybersecurity Conference (NICC)** released a Jeopardy-style ctf **(NIC CTF26)**.However I ended up coming 30th, missing out on a Top 10 spot. Here are some of my writeups for MISC and OSINT
 
 ## 📂 MISCELLANEOUS
 
